@@ -51,7 +51,7 @@ High-quality particle effects and sound design make every shot and explosion fee
 
 ## **Gameplay Video**  
 
-Watch the gameplay video on YouTube to see [Countdown Carnage Gameplay](https://www.youtube.com/link-to-video) in action
+Watch the gameplay video on YouTube to see [Countdown Carnage Gameplay](https://youtu.be/ouyf6i2yRZs) in action
 
 ---
 
