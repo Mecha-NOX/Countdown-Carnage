@@ -45,7 +45,13 @@ High-quality particle effects and sound design make every shot and explosion fee
 
 ## **Screenshots / GIFs**
 
-- ![Drone Encounter](https://kartik-chaturvedi.netlify.app/assets/Countdown-Carnage_First.gif)
+![Drone Encounter](https://kartik-chaturvedi.netlify.app/assets/Countdown-Carnage_First.gif)
+
+---
+
+## **Gameplay Video**  
+
+Watch the gameplay video on YouTube to see [Countdown Carnage Gameplay](https://www.youtube.com/link-to-video) in action
 
 ---
 
