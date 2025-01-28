@@ -45,8 +45,7 @@ High-quality particle effects and sound design make every shot and explosion fee
 
 ## **Screenshots / GIFs**
 
-![Drone Encounter](https://kartik-chaturvedi.netlify.app/assets/Countdown-Carnage_First.gif)
-
+![Drone Encounter](https://github.com/Mecha-NOX/Countdown-Carnage/blob/b78451a59a67d9caf7e22beff407e0be5d344b78/GIFs/Countdown-Carnage_First.gif)
 ---
 
 ## **Gameplay Video**  
