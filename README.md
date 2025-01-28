@@ -59,7 +59,7 @@ Watch the gameplay video on YouTube to see [Countdown Carnage Gameplay](https://
 1. Clone the repository to your local machine.  
 
     ```bash
-        git clone https://github.com/KartikChaturvedi/CountdownCarnage.git
+        git clone https://github.com/Mecha-NOX/Countdown-Carnage
     ```
 
 2. Open the project in Unreal Engine 5.3.  
