@@ -12,22 +12,22 @@
 
 ## **Features**
 
-- **Dynamic FPS Combat**
+- **Dynamic FPS Combat**   
 Engage in thrilling first-person combat with a variety of weapons against aggressive drones. The combat mechanics are designed to feel responsive, fluid, and intense.
 
-- **Intelligent Drone AI**
+- **Intelligent Drone AI**   
 The drones utilize Behavior Trees for patrol, chase, and attack logic. They actively track the player, becoming more aggressive as the player is detected or attacks them.
 
-- **Timed Gameplay Mechanics**
+- **Timed Gameplay Mechanics**   
 Players must clear all drones within a set time limit. Each drone kill extends the timer, adding tension and excitement as the countdown clock ticks away.
 
-- **Resource Management**
+- **Resource Management**   
 Players can collect health and ammo pickups scattered across the environment, which are essential for surviving the drone onslaught.
 
-- **User Interface (UI)**
+- **User Interface (UI)**   
 The HUD includes a countdown timer, health bar, and score indicator, providing real-time feedback to the player and enhancing gameplay immersion.
 
-- **Particle Effects & Sounds**
+- **Particle Effects & Sounds**   
 High-quality particle effects and sound design make every shot and explosion feel impactful, with dynamic audio that intensifies the action.
 
 ---
